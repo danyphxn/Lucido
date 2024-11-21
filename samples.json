@@ -15,7 +15,18 @@
   {"url":"s7.WAV","type":"audio","bank":"Lucido","n":7}
   {"url":"s8.WAV","type":"audio","bank":"Lucido","n":8}
   {"url":"s9.WAV","type":"audio","bank":"Lucido","n":9}
-  
+
+  {"url":"vid1.mov","type":"video","bank":"Lucido","n":1}
+  {"url":"vid2.mov","type":"video","bank":"Lucido","n":2}
+  {"url":"vid4.mov","type":"video","bank":"Lucido","n":3}
+  {"url":"vid5.mov","type":"video","bank":"Lucido","n":4}
+  {"url":"vid6.mov","type":"video","bank":"Lucido","n":5}
+  {"url":"vid7.mov","type":"video","bank":"Lucido","n":6}
+  {"url":"vid8.mov","type":"video","bank":"Lucido","n":7}
+  {"url":"vid9.mov","type":"video","bank":"Lucido","n":8}
+  {"url":"vidintro.mov","type":"video","bank":"Lucido","n":9}
+
+
 
   
 ]
