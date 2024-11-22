@@ -1,14 +1,14 @@
 [ 
 
-  {"url":"s1.WAV","type":"audio","bank":"Lucido","n":0},
-  {"url":"s2.WAV","type":"audio","bank":"Lucido","n":1},
-  {"url":"s3.WAV","type":"audio","bank":"Lucido","n":2},
-  {"url":"s4.WAV","type":"audio","bank":"Lucido","n":3},
-  {"url":"s5.WAV","type":"audio","bank":"Lucido","n":4},
-  {"url":"s6.WAV","type":"audio","bank":"Lucido","n":5},
-  {"url":"s7.WAV","type":"audio","bank":"Lucido","n":6},
-  {"url":"s8.WAV","type":"audio","bank":"Lucido","n":7},
-  {"url":"s9.WAV","type":"audio","bank":"Lucido","n":8}
+  {"url":"s1.wav","type":"audio","bank":"Lucido","n":0},
+  {"url":"s2.wav","type":"audio","bank":"Lucido","n":1},
+  {"url":"s3.wav","type":"audio","bank":"Lucido","n":2},
+  {"url":"s4.wav","type":"audio","bank":"Lucido","n":3},
+  {"url":"s5.wav","type":"audio","bank":"Lucido","n":4},
+  {"url":"s6.wav","type":"audio","bank":"Lucido","n":5},
+  {"url":"s7.wav","type":"audio","bank":"Lucido","n":6},
+  {"url":"s8.wav","type":"audio","bank":"Lucido","n":7},
+  {"url":"s9.wav","type":"audio","bank":"Lucido","n":8}
 
 
 
